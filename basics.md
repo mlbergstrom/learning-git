@@ -5,3 +5,4 @@ making changes to learn about making changes
 * git diff - displays differences / changes between 2 documents - 
 visible BEFORE you commit revised document 
 * git log - displays actions and changes
+* git nano takes you to the text editor
